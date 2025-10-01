@@ -7,7 +7,7 @@ cd < nom_file >
 
 git init # intialise le projet
 
-git add . && git commi -m "titre_du commit"
+git add . && git commit -m "titre_du commit"
 ```
 
 ## Push le projet sur github
