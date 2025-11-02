@@ -23,6 +23,10 @@ gh repo create --public --source=. # commande qui crée le repo public sur githu
 ```
 
 ```bash
+gh repo create --private --source. # commande qui crée le repo private sur github
+```
+
+```bash
 git remote -v
 # => An `origin` remote is now set!
 
